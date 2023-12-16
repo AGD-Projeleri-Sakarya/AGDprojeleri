@@ -1,4 +1,6 @@
-### Hi there 👋
+### AGD prof.dr. necmettin erbakan programlama atölyesi
+
+![Anadolugenclikdernegi](https://github.com/AGDprojeleri/AGDprojeleri/assets/153983498/d9346a49-bf41-4aff-9217-616c5414fd69)
 
 <!--
 **AGDprojeleri/AGDprojeleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
